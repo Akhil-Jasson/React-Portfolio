@@ -30,6 +30,6 @@ Contributions are welcome! If you find any bugs or want to suggest improvements,
 Contact
 For any inquiries or questions, feel free to reach out:
 
-Email: akhilinian@gmail.com
-Portfolio: https://react-portfolio-git-main-akhil-jassons-projects.vercel.app/
+Email: akhilinian@gmail.com<br>
+Portfolio: https://react-portfolio-git-main-akhil-jassons-projects.vercel.app/<br>
 LinkedIn: www.linkedin.com/in/akhil-jasson
