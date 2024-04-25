@@ -191,7 +191,7 @@ export const Bio = {
         "Python",
         "Pandas",
         "Tkinter",
-        "random",
+        "Random",
       ],
       category: "others",
       github: "https://github.com/rishavchanda/Project-Management-App",
