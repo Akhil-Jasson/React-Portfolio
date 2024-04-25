@@ -8,7 +8,7 @@ export const Bio = {
       "an Open-Source Contributor"
     ],
     description:
-      "Sophomore at VIT Vellore with a burning passion to strive towards happiness through coding, analysing and learning.",
+      "Sophomore at VIT Vellore with a burning passion to strive for excellence in coding, analysing and learning.",
     github: "https://github.com/Akhil-Jasson",
     resume:
       "https://drive.google.com/drive/folders/1Ve-qbvPLhlyfYGcZRDZ3UszXyI0xuk-0?usp=drive_link",
