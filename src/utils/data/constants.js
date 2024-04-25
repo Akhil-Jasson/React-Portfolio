@@ -124,7 +124,7 @@ export const Bio = {
       school: "Vellore Institute of Technology, Vellore",
       date: "Sept 2022 - Mar 2026",
       grade: "8.64 CGPA (3.46/4.00)",
-      desc: "I am currently a Sophomore pursuing a Bachelor's degree in Computer Science Specialising in Data Science at Vellore Institute of Technology, Vellore. I have completed 3 semesters and have a CGPA of 8.64. I have taken courses in Data Structures & Algorithms, Object-Oriented Programming, Web Programming and languages such as Python, Java and C++.",
+      desc: "I am currently a Sophomore pursuing a Bachelor's degree in Computer Science specialising in Data Science at Vellore Institute of Technology, Vellore. I have completed 3 semesters and have a CGPA of 8.64. I have taken courses in Data Structures & Algorithms, Object-Oriented Programming, Web Programming and languages such as Python, Java and C++.",
       degree: "Bachelor of Technology - BTech, Computer Science and Engineering Specialising in Data Science.",
     },
     {
@@ -172,7 +172,7 @@ export const Bio = {
       id: 0,
       title: "Personal Website (Portfolio)",
       description:
-        "Developed a full-stack web application that describes about my jouney mainly in the field of computer science. ",
+        "Developed a full-stack web application that describes my jouney mainly in the field of computer science. ",
       image:
         "https://raw.githubusercontent.com/Akhil-Jasson/PersonalPortfolio/main/src/Images/PortfolioImage.png",
       tags: ["React Js", "HTML", "CSS", "Javascript"],
