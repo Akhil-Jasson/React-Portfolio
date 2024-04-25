@@ -1,11 +1,11 @@
 export const Bio = {
     name: "Akhil Jasson Inian",
     roles: [
-      "Full Stack Developer",
-      "Data Scientist",
-      "Data Analyst", 
-      "ML Engineer",
-      "Open-Source Contributer"
+      "a Full Stack Developer",
+      "a Data Scientist",
+      "a Data Analyst", 
+      "a ML Engineer",
+      "an Open-Source Contributor"
     ],
     description:
       "Sophomore at VIT Vellore with a burning passion to strive towards happiness through coding, analysing and learning.",
