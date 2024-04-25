@@ -152,7 +152,7 @@ export const Bio = {
       id: 9,
       title: "Google Search Trend Analysis",
       description:
-        "Analysed the corrolation between the Search Trends on Google and their contribuion and effects on the live prices of Bitcoin and Tesla Stocks.",
+        "Analysed the correlation between the Search Trends on Google and their contribuion and effects on the live prices of Bitcoin and Tesla Stocks.",
       image:
         "https://raw.githubusercontent.com/Akhil-Jasson/PersonalPortfolio/main/src/Images/TeslaStockVsSearch.png"
         ,
