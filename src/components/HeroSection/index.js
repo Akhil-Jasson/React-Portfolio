@@ -246,4 +246,3 @@ const Hero = () => {
 
 export default Hero;
 
-//flex-direction under heroright media screen added by me
