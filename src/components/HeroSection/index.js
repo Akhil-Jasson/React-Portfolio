@@ -219,7 +219,7 @@ const Hero = () => {
                     <HeroLeftContainer>
                         <Title>Hi, I am {Bio.name}<br /></Title>
                         <TextLoop>
-                            I am a 
+                            I am  
                             <Span>
                                 <Typewriter 
                                 options={{
