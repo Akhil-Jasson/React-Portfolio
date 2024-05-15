@@ -165,7 +165,6 @@ export const Bio = {
       ],
       category: "machine learning",
       github: "https://colab.research.google.com/drive/1NgS_Pr86qxp05TAIh16WzlOOSG5APi_c?authuser=1",
-      webapp: "https://trackify.duckdns.org",
     },
     {
       id: 0,
@@ -176,7 +175,6 @@ export const Bio = {
         "https://raw.githubusercontent.com/Akhil-Jasson/PersonalPortfolio/main/src/Images/PortfolioImage.png",
       tags: ["React Js", "HTML", "CSS", "Javascript"],
       category: "web app",
-      webapp: "https://podstream.netlify.app/",
     },
     {
       id: 1,
@@ -192,7 +190,6 @@ export const Bio = {
         "Random",
       ],
       category: "others",
-      webapp: "https://vexa-app.netlify.app/",
     },
     {
       id: 2,
@@ -203,7 +200,6 @@ export const Bio = {
         "https://raw.githubusercontent.com/Akhil-Jasson/PersonalPortfolio/main/src/Images/health.png",
       tags: ["C++", "vyond"],
       category: "others",
-      webapp: "https://brain-tumor.netlify.app/",
       
     },
     {
