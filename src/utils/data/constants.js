@@ -15,7 +15,6 @@ export const Bio = {
     linkedin: "https://www.linkedin.com/in/akhil-jasson/",
     twitter: "https://twitter.com/home?lang=en",
     insta: "https://www.instagram.com/?hl=en",
-    facebook: "https://www.facebook.com/rishav.chanda.165/",
   };
   
   export const skills = [
@@ -177,7 +176,6 @@ export const Bio = {
         "https://raw.githubusercontent.com/Akhil-Jasson/PersonalPortfolio/main/src/Images/PortfolioImage.png",
       tags: ["React Js", "HTML", "CSS", "Javascript"],
       category: "web app",
-      github: "https://github.com/rishavchanda/Podstream",
       webapp: "https://podstream.netlify.app/",
     },
     {
@@ -194,7 +192,6 @@ export const Bio = {
         "Random",
       ],
       category: "others",
-      github: "https://github.com/rishavchanda/Project-Management-App",
       webapp: "https://vexa-app.netlify.app/",
     },
     {
@@ -206,7 +203,6 @@ export const Bio = {
         "https://raw.githubusercontent.com/Akhil-Jasson/PersonalPortfolio/main/src/Images/health.png",
       tags: ["C++", "vyond"],
       category: "others",
-      github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
       webapp: "https://brain-tumor.netlify.app/",
       
     },
@@ -219,8 +215,6 @@ export const Bio = {
         "https://raw.githubusercontent.com/Akhil-Jasson/PersonalPortfolio/main/src/Images/GooglePlayAnalysis.png",
       tags: ["Python", "Pandas", "Plotly", "Google Collab"],
       category: "machine learning",
-      github: "https://github.com/rishavchanda/Job-finder-App",
-      webapp: "https://github.com/rishavchanda/Job-finder-App",
     },
     
   ];
