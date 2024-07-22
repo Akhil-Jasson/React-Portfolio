@@ -122,7 +122,7 @@ export const Bio = {
       img: "https://raw.githubusercontent.com/Akhil-Jasson/PersonalPortfolio/main/src/Images/VIT.png",
       school: "Vellore Institute of Technology, Vellore",
       date: "Sept 2022 - Mar 2026",
-      grade: "8.64 CGPA (3.46/4.00)",
+      grade: "8.71 CGPA (3.5/4.0)",
       desc: "I am currently a Sophomore pursuing a Bachelor's degree in Computer Science specialising in Data Science at Vellore Institute of Technology, Vellore. I have completed 3 semesters and have a CGPA of 8.64. I have taken courses in Data Structures & Algorithms, Object-Oriented Programming, Web Programming and languages such as Python, Java and C++.",
       degree: "Bachelor of Technology - BTech, Computer Science and Engineering Specialising in Data Science.",
     },
